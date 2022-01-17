@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SashaBank", "SashaBank.csproj", "{CDBE1F21-F21C-441B-9CA0-F496B55E0005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBE1F21-F21C-441B-9CA0-F496B55E0005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBE1F21-F21C-441B-9CA0-F496B55E0005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBE1F21-F21C-441B-9CA0-F496B55E0005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBE1F21-F21C-441B-9CA0-F496B55E0005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFD18735-1DBC-452D-A633-72A68A9E16EC}
+	EndGlobalSection
+EndGlobal
