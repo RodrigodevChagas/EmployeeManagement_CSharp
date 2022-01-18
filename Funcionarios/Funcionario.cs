@@ -15,7 +15,7 @@ namespace SashaBank.Funcionario
         public string CPF { get; private set; }
         public double Salario { get; protected set; }
 
-        public void ExibeDados(Funcionario funcionario)
+        static void ExibeDados(Funcionario funcionario)
         {
             Console.WriteLine("NOME: " + funcionario.Nome);
             Console.WriteLine("Salario inicial: " + funcionario.Salario);
